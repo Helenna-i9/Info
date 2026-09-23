@@ -254,7 +254,7 @@ body {
 }
 .platform-item i {
     font-size: 36px;
-    color: var(--secondary-color);
+    color: var(--background-color);
     margin-bottom: 10px;
 }
 .platform-item h3 {
